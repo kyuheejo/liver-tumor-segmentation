@@ -32,7 +32,7 @@ Download open-source liver tumor data from [Liver Tumor Segmentation Challenge](
 
 ## Examples
 
-Examples of liver tumor segmentation using U-Net.
+Examples of liver tumor segmentation using a simple U-Net.
 
 ![example](info/example1.png)
 ![example](info/example2.png)
