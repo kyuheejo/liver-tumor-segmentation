@@ -14,4 +14,4 @@ We trained a simple unet to train the model.
 ## Result
 
 ![example](info/example1.png)
-![example](info/example2.png)
+
