@@ -22,7 +22,9 @@ Download data from [Liver Tumor Segmentation Challenge](https://competitions.cod
 
 [ResUNet](https://arxiv.org/pdf/1711.10684.pdf) is a semantic segmentation model inspired by the deep residual learning and UNet. It is an architecture that take advantages from both(Residual and UNet) models.
 
-![resunet](https://github.com/nikhilroxtomar/Deep-Residual-Unet/blob/master/images/arch.png)
+
+<img src="https://github.com/nikhilroxtomar/Deep-Residual-Unet/blob/master/images/arch.png" width="100">
+
 
 ## Results
 
