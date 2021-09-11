@@ -12,10 +12,17 @@ Download data from [Liver Tumor Segmentation Challenge](https://competitions.cod
 
 
 ### U-Net
+
+[U-net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) is a convolutional neural network with encoder-decoder architecture and skip-connections, loosely defined under the concept of "fully convolutional networks." U-net was originally proposed for the semantic segmentation of medical images and is modified for solving a wider range of gridded learning problems.
+
 ![unet](info/unet.png)
 
 ### Residual U-Net
 
+
+[ResUNet](https://arxiv.org/pdf/1711.10684.pdf) is a semantic segmentation model inspired by the deep residual learning and UNet. It is an architecture that take advantages from both(Residual and UNet) models.
+
+![resunet](https://github.com/nikhilroxtomar/Deep-Residual-Unet/blob/master/images/arch.png)
 
 ## Results
 
