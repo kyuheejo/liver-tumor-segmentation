@@ -11,7 +11,8 @@ Using unet to segment tumor from liver CT
 
 We trained a simple unet to train the model.
 
-## Result
+## Results
 
 ![example](info/example1.png)
+![example](info/example2.png)
 
