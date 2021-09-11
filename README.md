@@ -30,7 +30,9 @@ Download open-source liver tumor data from [Liver Tumor Segmentation Challenge](
 [ResUNet](https://arxiv.org/pdf/1711.10684.pdf) is a semantic segmentation model inspired by the deep residual learning and UNet. It is an architecture that take advantages from both(Residual and UNet) models.
 
 
-## Results
+## Examples
+
+Examples of liver tumor segmentation using U-Net.
 
 ![example](info/example1.png)
 ![example](info/example2.png)
