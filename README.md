@@ -17,6 +17,13 @@ Download data from [Liver Tumor Segmentation Challenge](https://competitions.cod
 
 ![unet](info/unet.png)
 
+
+### Fully convolutional network 
+
+[Fully Convolutional Networks](https://arxiv.org/abs/1411.4038), or FCNs, are an architecture used mainly for semantic segmentation. They employ solely locally connected layers, such as convolution, pooling and upsampling. Avoiding the use of dense layers means less parameters (making the networks faster to train).
+
+![fcn](info/fcn.png)
+
 ### Residual U-Net
 
 
