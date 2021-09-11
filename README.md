@@ -6,7 +6,7 @@ You can experiment with multiple combinations of segmentation models and losses 
 
 ## Dataset
 
-Download data from [Liver Tumor Segmentation Challenge](https://competitions.codalab.org/competitions/17094) and convert DICOM data to sequences of 2D images. 
+Download open-source liver tumor data from [Liver Tumor Segmentation Challenge](https://competitions.codalab.org/competitions/17094) and [3Dircadb](https://www.ircad.fr/research/3dircadb/). Convert DICOM data to sequences of 2D image and from 
 
 ## Model
 
