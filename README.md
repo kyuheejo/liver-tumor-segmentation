@@ -1,9 +1,10 @@
 # liver-tumor-segmentation
 Author: [Kyuhee Jo](kjo3@jhu.edu)
 
-Using unet to segment tumor from liver CT
+This respository contains codes to conduct liver tumor segmentation using segmentation models such as Unet, Unet++, and Residual Unet++.
+You can experiment with multiple combinations of segmentation models and losses implemented in models.py and loss.py. 
 
-## Example 
+## Dataset
 
 ## Model
 
